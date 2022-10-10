@@ -8,8 +8,7 @@
   },
   "author": "Mohamed Akeel Khan",
   "license": "ISC",
-  "type": "module",
   "bin": {
-    "resume-me": "./index.cjs"
+    "resume-me": "./index.js"
   }
 }
