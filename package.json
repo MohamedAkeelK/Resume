@@ -2,13 +2,13 @@
   "name": "mohamed_akeel_khan-resume",
   "version": "1.0.0",
   "description": "Mohamed Akeel Khan's resume.",
-  "main": "index.js",
+  "main": "index.cjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mohamed Akeel Khan",
   "license": "ISC",
   "bin": {
-    "resume-me": "./index"
+    "resume-me": "./index.cjs"
   }
 }
