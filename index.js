@@ -1,5 +1,5 @@
 #! /usr/bin/env node
-import fs from "fs";
+const fs = require("fs");
 
 //reads contents of info.json
 fs.readFile(__dirname + "/info.json", "utf8", (err, data) => {
