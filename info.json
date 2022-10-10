@@ -1,0 +1,32 @@
+{
+  "name": "Mohamed Akeel Khan",
+  "website": "https://akeelwebdev.tech/",
+  "linkedin": "https://www.linkedin.com/in/mohamed-khan/",
+  "github": "https://github.com/MohamedAkeelK",
+  "email": "mohamedakeelkhan@gmail.com",
+  "resume": "https://docs.google.com/document/d/1N-UqRkE4H39xYuhMMnY4nfoUCYSS4cBk7UMJkrsa5Ec/",
+  "projects": "https://akeelwebdev.tech/portfolio/",
+  "proficientTechnologies": [
+      "Javascript",
+      "React",
+      "Vue",
+      "Node",
+      "Express",
+      "Mongodb",
+      "PostgreSQL",
+      "Python",
+      "Django",
+      "Wordpress",
+      "HTML",
+      "CSS",
+      "SCSS",
+      "Bootstrap",
+      "C++"
+  ],
+  "otherSkills": [
+      "Team work",
+      "Guitar",
+      "Skate-boarding",
+      "Sports"
+  ]
+}
