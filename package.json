@@ -9,6 +9,6 @@
   "author": "Mohamed Akeel Khan",
   "license": "ISC",
   "bin": {
-    "resume-me": "./index.js"
+    "resume-me": "./index"
   }
 }
